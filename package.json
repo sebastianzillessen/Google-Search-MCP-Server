@@ -1,6 +1,6 @@
 {
   "name": "google-search-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server for Google search and webpage analysis",
   "type": "module",
   "scripts": {
@@ -33,5 +33,9 @@
     "@types/node": "^20.17.21",
     "concurrently": "^9.1.0",
     "typescript": "^5.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastianzillessen/Google-Search-MCP-Server.git"
   }
 }
