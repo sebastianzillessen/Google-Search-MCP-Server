@@ -1,6 +1,6 @@
 {
-  "name": "google-search-mcp",
-  "version": "0.1.1",
+  "name": "@stammtisch/google-search-mcp",
+  "version": "0.0.2",
   "description": "MCP server for Google search and webpage analysis",
   "type": "module",
   "scripts": {
