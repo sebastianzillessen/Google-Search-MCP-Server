@@ -37,5 +37,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sebastianzillessen/Google-Search-MCP-Server.git"
+  },
+  "engines": {
+    "node": ">=22.0.0"
   }
 }
